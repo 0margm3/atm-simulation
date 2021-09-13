@@ -13,7 +13,8 @@ In order to log in you need a file "UserID.txt"
 containing the userid inside, a six digit number id, e.i., 123456
 and this id must be registered at the database.
 
-the database is formatted as
+the database is formatted as:
 #number Lastname Firstname MiddleName #Balance #six_digit_number_id #six_digit_number_pin
+ 
 ex: 0 Smith John BatongBakal 420 694201 123456
  
