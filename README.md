@@ -1,5 +1,5 @@
 # atm-simulation
-A simple school project about ATM
+A simple school project about ATM(windows only)
 
 Feature:
 1. Withdraw
