@@ -920,7 +920,7 @@ void Transition(int Transition_INT_TypeOfTransaction)
         gotoxy(45, 9);
         printf("TRANSEFFERING...");
     }
-    Delay(2);
+    Delay(1);
 }
 void frontpage()
 {
@@ -951,15 +951,3 @@ void HideCursor()
     SetConsoleCursorInfo(ConsoleHandle, &info);
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
